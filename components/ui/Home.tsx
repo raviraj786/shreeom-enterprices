@@ -8,7 +8,7 @@ export default function Homepage() {
       <section className="relative w-full h-[500px] flex items-center justify-center bg-gradient-to-r from-green-600 to-emerald-500 text-white text-center overflow-hidden">
         <div className="absolute inset-0 opacity-20">
           <Image
-            src="/img1.jpeg"
+            src="/dd.jpeg"
             alt="Banner"
             fill
             style={{ objectFit: "cover" }}
